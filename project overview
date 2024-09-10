@@ -1,0 +1,11 @@
+Project Overview:
+The Patient Appointment Management System (PAMS) is designed 
+to manage patient appointments in a healthcare setting using a
+ Binary Search Tree (BST). This system aims to streamline appointment
+ scheduling, search, and cancellation processes by efficiently 
+ managing appointment times and patient details.
+
+Objectives:
+Develop a system to manage patient appointments using a BST.
+Enable adding, searching, and canceling appointments.
+Ensure efficient appointment scheduling and retrieval.
