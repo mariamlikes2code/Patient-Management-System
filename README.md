@@ -1,4 +1,4 @@
-# Patient Appointment Management System (PAMS)
+# Patient Appointment Management System
 
 A Java console application for managing patient appointments in a healthcare setting. Built using a Binary Search Tree (BST) to efficiently handle scheduling, searching, and cancellation by appointment time.
 
